@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1651380729,
+	"version": 1651447274,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -30,7 +30,7 @@
 		"images/spritefont.png",
 		"images/signright-sheet0.png",
 		"images/sprite8-sheet0.png",
-		"images/natanimation-sheet0.png",
+		"images/paula-sheet0.png",
 		"images/snailwalk-sheet0.png",
 		"images/snailwalk-sheet1.png",
 		"images/flyfly-sheet0.png",
@@ -84,7 +84,6 @@
 		"images/door_closedmid-sheet1.png",
 		"images/door_closedtop-sheet0.png",
 		"images/door_closedtop-sheet1.png",
-		"images/natwalk-sheet0.png",
 		"images/tiledbackground9.png",
 		"images/particles.png",
 		"images/coroaprincesa-sheet0.png",
@@ -101,16 +100,26 @@
 		"images/untitled4-sheet0.png",
 		"images/letteritem-sheet0.png",
 		"images/untitled5-sheet0.png",
-		"images/pngwingcom-sheet0.png",
 		"images/copocerveja-sheet0.png",
 		"images/carne-sheet0.png",
 		"media/aquarium-by-kevin-macleod-from-filmmusic-io (online-audio-converter.com).m4a",
 		"media/aquarium-by-kevin-macleod-from-filmmusic-io (online-audio-converter.com).ogg",
+		"media/caarne.ogg",
+		"media/foo fighters - walk (instrumental original)-(128kbps).ogg",
+		"media/ac_dc - you shook me all night long (instrumental)-(128kbps).ogg",
+		"media/win.m4a",
+		"media/win.ogg",
+		"media/lose.m4a",
+		"media/lose.ogg",
+		"media/checkpoint.m4a",
+		"media/checkpoint.ogg",
+		"media/impact2.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
-		"loading-logo.png"
+		"loading-logo.png",
+		"video.mp4"
 	]
 }
