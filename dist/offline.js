@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1651332511,
+	"version": 1651380729,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -101,6 +101,9 @@
 		"images/untitled4-sheet0.png",
 		"images/letteritem-sheet0.png",
 		"images/untitled5-sheet0.png",
+		"images/pngwingcom-sheet0.png",
+		"images/copocerveja-sheet0.png",
+		"images/carne-sheet0.png",
 		"media/aquarium-by-kevin-macleod-from-filmmusic-io (online-audio-converter.com).m4a",
 		"media/aquarium-by-kevin-macleod-from-filmmusic-io (online-audio-converter.com).ogg",
 		"icon-16.png",
