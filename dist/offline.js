@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1651461481,
+	"version": 1651890582,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -102,11 +102,8 @@
 		"images/untitled5-sheet0.png",
 		"images/copocerveja-sheet0.png",
 		"images/carne-sheet0.png",
-		"media/aquarium-by-kevin-macleod-from-filmmusic-io (online-audio-converter.com).m4a",
-		"media/aquarium-by-kevin-macleod-from-filmmusic-io (online-audio-converter.com).ogg",
 		"media/caarne.ogg",
 		"media/foo fighters - walk (instrumental original)-(128kbps).ogg",
-		"media/ac_dc - you shook me all night long (instrumental)-(128kbps).ogg",
 		"media/win.m4a",
 		"media/win.ogg",
 		"media/lose.m4a",
@@ -114,13 +111,14 @@
 		"media/checkpoint.m4a",
 		"media/checkpoint.ogg",
 		"media/impact2.ogg",
+		"media/music-intro.ogg",
+		"media/16-ac_dc - you shook me all night long (instrumental)-(128kbps) (online-audio-converter.com).ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
 		"loading-logo.png",
-		"video.mp4",
-		"video-exemplo.mp4"
+		"introducao.mp4"
 	]
 }
