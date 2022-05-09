@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1651890582,
+	"version": 1652055282,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -102,6 +102,9 @@
 		"images/untitled5-sheet0.png",
 		"images/copocerveja-sheet0.png",
 		"images/carne-sheet0.png",
+		"images/buttonstartremovebgpreview-sheet0.png",
+		"images/startgame-sheet0.png",
+		"images/startgame-sheet1.png",
 		"media/caarne.ogg",
 		"media/foo fighters - walk (instrumental original)-(128kbps).ogg",
 		"media/win.m4a",
