@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1653924015,
+	"version": 1654396063,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -94,7 +94,7 @@
 		"images/untitled-sheet0.png",
 		"images/untitled2-sheet0.png",
 		"images/untitled3-sheet0.png",
-		"images/untitled4-sheet0.png",
+		"images/gametitle-sheet0.png",
 		"images/letteritem-sheet0.png",
 		"images/untitled5-sheet0.png",
 		"images/copocerveja-sheet0.png",
